@@ -51,6 +51,9 @@ _  _   _   _ _
 ## Imagens do jogo
 <img width="600" height="527" align="center" alt="image" src="https://github.com/user-attachments/assets/0d328bce-46d8-413c-9e70-7e4ca68164c0" />
 
+
+<img width="600" height="527" alt="image" src="https://github.com/user-attachments/assets/345cfaef-5c9c-408c-8345-c73136f4ebda" />
+
 ---
 
 ## 🎮 Integrantes do grupo
