@@ -36,11 +36,11 @@ _  _   _   _ _
 
    - clique na seta indicada e importe o **charmap.mif**
      
-4) clique no **velha.asm** e clique em Build
+4) clique no **velha.asm** e clique em **BUILD**
    
    <img width="648" height="230" alt="image" src="https://github.com/user-attachments/assets/446e41c0-3044-4693-a0bf-7315f9359c6c" />
 
-5) Ajuste o Hz se necessário (roda em 1MHz) e de Run
+5) Ajuste o Hz se necessário (roda em 1MHz) e de **RUN**
    
    <img width="459" height="135" alt="image" src="https://github.com/user-attachments/assets/2fac4454-5742-44a7-9c59-55a0a7af5379" />
    
