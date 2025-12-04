@@ -34,8 +34,10 @@ _  _   _   _ _
      
    <img width="280" height="121" alt="image" src="https://github.com/user-attachments/assets/534864ff-8d80-4578-aaba-09cccb52b8e0" />
 
-   - clique na seta indicada e importe o **charmap.mif**
+   - clique em **IMPORT** e selecione o **charmap.mif**
      
+   <img width="973" height="341" alt="image" src="https://github.com/user-attachments/assets/4b65a7e9-d102-4087-bc54-8cb09807098c" />
+
 4) clique no **velha.asm** e clique em **BUILD**
    
    <img width="648" height="230" alt="image" src="https://github.com/user-attachments/assets/446e41c0-3044-4693-a0bf-7315f9359c6c" />
@@ -48,11 +50,20 @@ _  _   _   _ _
 
 ---
 
-## Imagens do jogo
-<img width="600" height="527" align="center" alt="image" src="https://github.com/user-attachments/assets/0d328bce-46d8-413c-9e70-7e4ca68164c0" />
+## 📸 Imagens do jogo
+<img width="600" height="527" alt="image" src="https://github.com/user-attachments/assets/121dfdb5-f8a6-412d-8100-4a2f32c55b7d" />
 
+---
 
-<img width="600" height="527" alt="image" src="https://github.com/user-attachments/assets/345cfaef-5c9c-408c-8345-c73136f4ebda" />
+<img width="600" height="527" alt="image" src="https://github.com/user-attachments/assets/3d3e55c9-d0bd-4a51-89b7-85fcd72d015e" />
+
+---
+
+<img width="600" height="527" alt="image" src="https://github.com/user-attachments/assets/fcb41f70-d3ac-4945-a62f-9ab09ddedab6" />
+
+---
+
+<img width="600" height="527" alt="image" src="https://github.com/user-attachments/assets/0a4d4179-8ec7-4446-b335-16c5d15f663d" />
 
 ---
 
