@@ -67,6 +67,11 @@ _  _   _   _ _
 
 ---
 
+## 🖥️ Vídeo explicativo
+
+Clique no link para ser direcionado ao vídeo de explicação do nosso jogo! O vídeo explica o código por trás do jogo e o seu funcionamento.
+---
+
 ## 🎮 Integrantes do grupo
 ``` 
 Hyago Dos Santos Souza NUSP 16907348
