@@ -68,8 +68,8 @@ _  _   _   _ _
 ---
 
 ## 🖥️ Vídeo explicativo
+Clique no link para ser direcionado para o vídeo de explicação do nosso jogo! O vídeo explica o código do jogo e como ele é jogado.
 
-Clique no link para ser direcionado ao vídeo de explicação do nosso jogo! O vídeo explica o código por trás do jogo e o seu funcionamento.
 ---
 
 ## 🎮 Integrantes do grupo
