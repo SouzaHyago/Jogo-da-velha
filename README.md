@@ -69,6 +69,7 @@ _  _   _   _ _
 
 ## 🖥️ Vídeo explicativo
 Clique no link para ser direcionado para o vídeo de explicação do nosso jogo! O vídeo explica o código do jogo e como ele é jogado.
+Assista [aqui](<https://youtu.be/u_oCYtrt1Ic?si=kBogE22SBE5Ba14->)
 
 ---
 
