@@ -40,7 +40,8 @@ _  _   _   _ _
 
 4) clique no **velha.asm** e clique em **BUILD**
    
-   <img width="648" height="230" alt="image" src="https://github.com/user-attachments/assets/446e41c0-3044-4693-a0bf-7315f9359c6c" />
+   <img width="646" height="146" alt="image" src="https://github.com/user-attachments/assets/2176a76c-2577-443e-b485-3712bf4360d4" />
+
 
 5) Ajuste o Hz se necessário (roda em 1MHz) e de **RUN**
    
