@@ -75,7 +75,7 @@ Assista [aqui](<https://youtu.be/u_oCYtrt1Ic?si=kBogE22SBE5Ba14->)
 
 ## 🎮 Integrantes do grupo
 ``` 
-Hyago Dos Santos Souza NUSP 16907348
-Karen Nanamy Kamo NUSP 15495932
-Sarah Meicy Machado Barbosa NUSP 16830357
+Hyago Dos Santos Souza 
+Karen Nanamy Kamo
+Sarah Meicy Machado Barbosa 
 ``` 
